@@ -29,6 +29,10 @@ _Guía_
     + Combinar y separar celdas
     + Insertar una imagen
     + Plegar una hoja
+- Dentro de la carpeta `Tema_3` encontrarás el cuaderno `Conceptos3.ipynb` con los modos optimizados para leer grandes cantidades de datos con un bajo uso de memoria, además de tres archivos `.xlsx` que se crearán mediante el propio cuaderno (excepto `ejemplo2.xlsx` que ha sido agregado como ejemplo para la primera parte del tema). Temario:
+    + Modo de solo lectura
+        * Dimensiones de la hoja de trabajo
+    + Modo de solo escritura
 
 
 ### Requisitos 📋
