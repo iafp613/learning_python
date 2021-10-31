@@ -21,6 +21,7 @@ _Guía_
         * Almacenar datos
         * Guardado
         * Cargando
+
 - Dentro de la carpeta `Tema_2` encontrarás el cuaderno `Conceptos2.ipynb` con las funcionalidades básicas de la librería que usaremos, además de un archivo `.xlsx` que se creará mediante el propio cuaderno y una imagen `.png` que se usará como ejemplo para insertarla en el *workbook* usando Python. Temario:
     + Escribir un libro de trabajo
     + Leer un libro de trabajo existente
@@ -29,10 +30,16 @@ _Guía_
     + Combinar y separar celdas
     + Insertar una imagen
     + Plegar una hoja
+
 - Dentro de la carpeta `Tema_3` encontrarás el cuaderno `Conceptos3.ipynb` con los modos optimizados para leer grandes cantidades de datos con un bajo uso de memoria, además de tres archivos `.xlsx` que se crearán mediante el propio cuaderno (excepto `ejemplo2.xlsx` que ha sido agregado como ejemplo para la primera parte del tema). Temario:
     + Modo de solo lectura
         * Dimensiones de la hoja de trabajo
     + Modo de solo escritura
+
+- Dentro de la carpeta `Tema_4` encontrarás el cuaderno `Conceptos4.ipynb` con las explicaciones necesarias para aprender a mover rangos de celdas, insertar y eliminar columnas y filas, además de un archivo `.xlsx` que se creará mediante el propio cuaderno. Temario:
+    + Insertar filas y columnas
+    + Eliminar filas y columnas
+    + Mover rangos de celdas
 
 
 ### Requisitos 📋
