@@ -62,8 +62,9 @@ pip3 install openpyxl
 
 *Por favor déjame una estrella en mi perfil y / o sígueme en las redes sociales, me ayudas a seguir subiendo más contenido.* 😊
 
-- [My Instagram](https://instagram.com/nachofp613)
-- [My Twitter](https://twitter.com/nachofp613)
+- [Mi Instagram](https://instagram.com/nachofp613)
+- [Mi Twitter](https://twitter.com/nachofp613)
+- [Mi Medium](https://nachofp613.medium.com/)
 
 ![GitHub followers](https://img.shields.io/github/followers/iafp613?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/iafp613?style=social)
