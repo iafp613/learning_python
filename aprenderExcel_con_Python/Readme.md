@@ -1,9 +1,9 @@
-<h1 align="center"> Mental Health - Individual machine learning project.</h1>
+<h1 align="center"> Aprendiendo Excel con Python </h1>
 <p align="center"><img src="https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1590177494/excel2_zfadq1.png"/></p>
 
 Aprende conmigo a manejar archivos `.xlsx` de Excel usando código Python de forma intuitiva y sencilla.
 
-![GitHub watchers](https://img.shields.io/github/watchers/iafp613/learning_python/tree/main/aprenderExcel_con_Python?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/iafp613/learning_python?style=social)
 
 
 ## Comenzando 🚀
@@ -55,7 +55,7 @@ pip3 install openpyxl
 
 * ![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=306998&labelColor=FFD43B)
 * ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-* [VSC](https://code.visualstudio.com/download) - IDLE: ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+* ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
 ## Contribuye 🖇️
