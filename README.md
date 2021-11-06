@@ -3,6 +3,8 @@
 _Aquí tendrás todo lo necesario para aprender Data Science. ¿Lo mejor? ¡Totalmente en Español!_
 _Podrás encontrar conceptos básicos y avanzados de Python, NumPy, Pandas, BBDD y muchas cosas más_
 
+![GitHub watchers](https://img.shields.io/github/watchers/iafp613/learning_python?style=social)
+
 ## Comenzando 🚀
 
 ### Pre-requisitos 📋
